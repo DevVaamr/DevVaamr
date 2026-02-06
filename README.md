@@ -3,10 +3,10 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; &nbsp;Currently working as a Technical Support Engineer at [Click Solutions](https://www.Clicksolutions.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 5+ years of experience in enterprise wide software development.\
+&nbsp;&nbsp;&nbsp;&nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;&nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;&nbsp;Currently researching software architecture, development, and quality.\
+&nbsp;&nbsp;&nbsp;&nbsp;Coding since 2020 with 5+ years of experience in enterprise wide software development.\
 .
 
 <p align="center">
@@ -37,8 +37,7 @@
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
+\
 
 </details>
 
