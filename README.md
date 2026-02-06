@@ -2,7 +2,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Technical Support Engineer at [Click Solutions](https://www.Clicksolutions.com/). \
+&nbsp;&nbsp;&nbsp; &nbsp;Currently working as a Technical Support Engineer at [Click Solutions](https://www.Clicksolutions.com/). \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
